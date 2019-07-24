@@ -5,5 +5,6 @@ My code written[created] in Baekjoon
 15552_2.java
 https://www.acmicpc.net/problem/15552
 
-1673.java
+1673_1.java
+1673_2.java
 https://www.acmicpc.net/problem/1673
