@@ -8,12 +8,13 @@ public class Main{
         
         String s = br.readLine();
         int n = Integer.parseInt(s);
+        int n = Integer.parseInt(br.readLine());
         
-            s = br.readLine();
-            StringTokenizer st = new StringTokenizer(s);
-            int a = Integer.parseInt(st.nextToken());
-                        bw.write("\n");
-        }
+        StringTokenizer st = new StringTokenizer(s);
+        int a = Integer.parseInt(st.nextToken());
+        
+        bw.write("\n");
+        
         bw.flush();
         bw.close();
     }
